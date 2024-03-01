@@ -1,4 +1,8 @@
+[![CI](https://github.com/AtmosSystem/Logs/actions/workflows/release.yml/badge.svg)](https://github.com/AtmosSystem/Logs-Timbre/actions/workflows/release.yml)
+
 # Logs Timbre
+
+[![Clojars Project](https://img.shields.io/clojars/v/org.clojars.atmos-system/atmos-logs-timbre.svg)](https://clojars.org/org.clojars.atmos-system/atmos-logs-timbre)
 
 Atmos logs implementation using timbre.
 

@@ -1,4 +1,4 @@
-(defproject org.clojars.atmos-system/atmos-logs-timbre "0.1.0-SNAPSHOT"
+(defproject org.clojars.atmos-system/atmos-logs-timbre "1.0"
   :description "Atmos logs using timbre"
   :url "https://github.com/AtmosSystem/atmos-logs-timbre"
   :license {:name "EPL-2.0 OR GPL-2.0-or-later WITH Classpath-exception-2.0"
