@@ -8,7 +8,7 @@ Atmos logs implementation using timbre.
 
 ## License
 
-Copyright © 2024 FIXME
+Copyright © 2024 Santiago de Pedro
 
 This program and the accompanying materials are made available under the
 terms of the Eclipse Public License 2.0 which is available at
